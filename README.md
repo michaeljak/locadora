@@ -8,7 +8,7 @@ edite as configuracoes de conexao na classe conexao..
 
 os dados de login das unidades são:
 
-Unidade        |     Senha
-Centro         |     admin
-Zona Norte     |     admin
+Unidade        |     Senha <br>
+Centro         |     admin <br>
+Zona Norte     |     admin <br>
 Zona Sul       |     admin
